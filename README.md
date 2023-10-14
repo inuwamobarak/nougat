@@ -1,6 +1,6 @@
 # Nougat: Revolutionizing OCR for Scientific Documents
 
-![Nougat Logo](nougat-logo.png)
+![nuogat](https://github.com/inuwamobarak/nougat/assets/65142149/bb997529-11c9-4e3e-baf4-f0d479936037)
 
 ## About Nougat
 
